@@ -1,0 +1,12 @@
+C:\Users\Lab\Desktop\PrjAulaContinuacao\PrjAulaContinuacao\bin\Debug\PrjAulaContinuacao.exe.config
+C:\Users\Lab\Desktop\PrjAulaContinuacao\PrjAulaContinuacao\bin\Debug\PrjAulaContinuacao.exe
+C:\Users\Lab\Desktop\PrjAulaContinuacao\PrjAulaContinuacao\bin\Debug\PrjAulaContinuacao.pdb
+C:\Users\Lab\Desktop\PrjAulaContinuacao\PrjAulaContinuacao\obj\Debug\PrjAulaContinuacao.csprojResolveAssemblyReference.cache
+C:\Users\Lab\Desktop\PrjAulaContinuacao\PrjAulaContinuacao\obj\Debug\PrjAulaContinuacao.Form1.resources
+C:\Users\Lab\Desktop\PrjAulaContinuacao\PrjAulaContinuacao\obj\Debug\PrjAulaContinuacao.Properties.Resources.resources
+C:\Users\Lab\Desktop\PrjAulaContinuacao\PrjAulaContinuacao\obj\Debug\PrjAulaContinuacao.csproj.GenerateResource.Cache
+C:\Users\Lab\Desktop\PrjAulaContinuacao\PrjAulaContinuacao\obj\Debug\PrjAulaContinuacao.exe
+C:\Users\Lab\Desktop\PrjAulaContinuacao\PrjAulaContinuacao\obj\Debug\PrjAulaContinuacao.pdb
+F:\ETEC - ALGORITMOS\2024\21-02\PrjAulaContinuacao\PrjAulaContinuacao\bin\Debug\PrjAulaContinuacao.exe.config
+F:\ETEC - ALGORITMOS\2024\21-02\PrjAulaContinuacao\PrjAulaContinuacao\obj\Debug\PrjAulaContinuacao.exe
+F:\ETEC - ALGORITMOS\2024\21-02\PrjAulaContinuacao\PrjAulaContinuacao\obj\Debug\PrjAulaContinuacao.pdb

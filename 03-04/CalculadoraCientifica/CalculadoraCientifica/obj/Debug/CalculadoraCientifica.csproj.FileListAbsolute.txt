@@ -1,0 +1,30 @@
+c:\users\internet\documents\visual studio 2012\Projects\CalculadoraCientifica\CalculadoraCientifica\bin\Debug\CalculadoraCientifica.exe.config
+c:\users\internet\documents\visual studio 2012\Projects\CalculadoraCientifica\CalculadoraCientifica\bin\Debug\CalculadoraCientifica.exe
+c:\users\internet\documents\visual studio 2012\Projects\CalculadoraCientifica\CalculadoraCientifica\bin\Debug\CalculadoraCientifica.pdb
+c:\users\internet\documents\visual studio 2012\Projects\CalculadoraCientifica\CalculadoraCientifica\obj\Debug\CalculadoraCientifica.csprojResolveAssemblyReference.cache
+c:\users\internet\documents\visual studio 2012\Projects\CalculadoraCientifica\CalculadoraCientifica\obj\Debug\CalculadoraCientifica.FrmCalculadora.resources
+c:\users\internet\documents\visual studio 2012\Projects\CalculadoraCientifica\CalculadoraCientifica\obj\Debug\CalculadoraCientifica.Properties.Resources.resources
+c:\users\internet\documents\visual studio 2012\Projects\CalculadoraCientifica\CalculadoraCientifica\obj\Debug\CalculadoraCientifica.csproj.GenerateResource.Cache
+c:\users\internet\documents\visual studio 2012\Projects\CalculadoraCientifica\CalculadoraCientifica\obj\Debug\CalculadoraCientifica.exe
+c:\users\internet\documents\visual studio 2012\Projects\CalculadoraCientifica\CalculadoraCientifica\obj\Debug\CalculadoraCientifica.pdb
+C:\Users\Lab\Documents\Calculadora Científica\CalculadoraCientifica\CalculadoraCientifica\bin\Debug\CalculadoraCientifica.exe.config
+C:\Users\Lab\Documents\Calculadora Científica\CalculadoraCientifica\CalculadoraCientifica\obj\Debug\CalculadoraCientifica.exe
+C:\Users\Lab\Documents\Calculadora Científica\CalculadoraCientifica\CalculadoraCientifica\obj\Debug\CalculadoraCientifica.pdb
+C:\Users\Lab\Documents\Calculadora Científica\CalculadoraCientifica\CalculadoraCientifica\bin\Debug\CalculadoraCientifica.exe
+C:\Users\Lab\Documents\Calculadora Científica\CalculadoraCientifica\CalculadoraCientifica\bin\Debug\CalculadoraCientifica.pdb
+C:\Users\Lab\Documents\Calculadora Científica\CalculadoraCientifica\CalculadoraCientifica\obj\Debug\CalculadoraCientifica.csprojResolveAssemblyReference.cache
+C:\Users\Lab\Documents\Calculadora Científica\CalculadoraCientifica\CalculadoraCientifica\obj\Debug\CalculadoraCientifica.FrmCalculadora.resources
+C:\Users\Lab\Documents\Calculadora Científica\CalculadoraCientifica\CalculadoraCientifica\obj\Debug\CalculadoraCientifica.Properties.Resources.resources
+C:\Users\Lab\Documents\Calculadora Científica\CalculadoraCientifica\CalculadoraCientifica\obj\Debug\CalculadoraCientifica.csproj.GenerateResource.Cache
+C:\Users\Lab\Desktop\CalculadoraCientifica\CalculadoraCientifica\bin\Debug\CalculadoraCientifica.exe.config
+C:\Users\Lab\Desktop\CalculadoraCientifica\CalculadoraCientifica\obj\Debug\CalculadoraCientifica.exe
+C:\Users\Lab\Desktop\CalculadoraCientifica\CalculadoraCientifica\obj\Debug\CalculadoraCientifica.pdb
+F:\ETEC - ALGORITMOS\2024\C#\03-04\CalculadoraCientifica\CalculadoraCientifica\bin\Debug\CalculadoraCientifica.exe.config
+F:\ETEC - ALGORITMOS\2024\C#\03-04\CalculadoraCientifica\CalculadoraCientifica\obj\Debug\CalculadoraCientifica.exe
+F:\ETEC - ALGORITMOS\2024\C#\03-04\CalculadoraCientifica\CalculadoraCientifica\obj\Debug\CalculadoraCientifica.pdb
+F:\ETEC - ALGORITMOS\2024\C#\03-04\CalculadoraCientifica\CalculadoraCientifica\bin\Debug\CalculadoraCientifica.exe
+F:\ETEC - ALGORITMOS\2024\C#\03-04\CalculadoraCientifica\CalculadoraCientifica\bin\Debug\CalculadoraCientifica.pdb
+F:\ETEC - ALGORITMOS\2024\C#\03-04\CalculadoraCientifica\CalculadoraCientifica\obj\Debug\CalculadoraCientifica.csprojResolveAssemblyReference.cache
+F:\ETEC - ALGORITMOS\2024\C#\03-04\CalculadoraCientifica\CalculadoraCientifica\obj\Debug\CalculadoraCientifica.FrmCalculadora.resources
+F:\ETEC - ALGORITMOS\2024\C#\03-04\CalculadoraCientifica\CalculadoraCientifica\obj\Debug\CalculadoraCientifica.Properties.Resources.resources
+F:\ETEC - ALGORITMOS\2024\C#\03-04\CalculadoraCientifica\CalculadoraCientifica\obj\Debug\CalculadoraCientifica.csproj.GenerateResource.Cache

@@ -1,0 +1,12 @@
+C:\Users\Lab\Desktop\PrjAula04Cont\PrjAula04Cont\bin\Debug\PrjAula04Cont.exe.config
+C:\Users\Lab\Desktop\PrjAula04Cont\PrjAula04Cont\bin\Debug\PrjAula04Cont.exe
+C:\Users\Lab\Desktop\PrjAula04Cont\PrjAula04Cont\bin\Debug\PrjAula04Cont.pdb
+C:\Users\Lab\Desktop\PrjAula04Cont\PrjAula04Cont\obj\Debug\PrjAula04Cont.csprojResolveAssemblyReference.cache
+C:\Users\Lab\Desktop\PrjAula04Cont\PrjAula04Cont\obj\Debug\PrjAula04Cont.Form1.resources
+C:\Users\Lab\Desktop\PrjAula04Cont\PrjAula04Cont\obj\Debug\PrjAula04Cont.Properties.Resources.resources
+C:\Users\Lab\Desktop\PrjAula04Cont\PrjAula04Cont\obj\Debug\PrjAula04Cont.csproj.GenerateResource.Cache
+C:\Users\Lab\Desktop\PrjAula04Cont\PrjAula04Cont\obj\Debug\PrjAula04Cont.exe
+C:\Users\Lab\Desktop\PrjAula04Cont\PrjAula04Cont\obj\Debug\PrjAula04Cont.pdb
+F:\ETEC - ALGORITMOS\2024\C#\08-03\PrjAula04Cont\PrjAula04Cont\bin\Debug\PrjAula04Cont.exe.config
+F:\ETEC - ALGORITMOS\2024\C#\08-03\PrjAula04Cont\PrjAula04Cont\obj\Debug\PrjAula04Cont.exe
+F:\ETEC - ALGORITMOS\2024\C#\08-03\PrjAula04Cont\PrjAula04Cont\obj\Debug\PrjAula04Cont.pdb

@@ -1,0 +1,18 @@
+C:\Users\ertus\Desktop\Exercício - Get-Set\bin\Debug\net8.0-windows\Exercício - Get-Set.exe
+C:\Users\ertus\Desktop\Exercício - Get-Set\bin\Debug\net8.0-windows\Exercício - Get-Set.deps.json
+C:\Users\ertus\Desktop\Exercício - Get-Set\bin\Debug\net8.0-windows\Exercício - Get-Set.runtimeconfig.json
+C:\Users\ertus\Desktop\Exercício - Get-Set\bin\Debug\net8.0-windows\Exercício - Get-Set.dll
+C:\Users\ertus\Desktop\Exercício - Get-Set\bin\Debug\net8.0-windows\Exercício - Get-Set.pdb
+C:\Users\ertus\Desktop\Exercício - Get-Set\obj\Debug\net8.0-windows\Exercício___Get_Set.Form1.resources
+C:\Users\ertus\Desktop\Exercício - Get-Set\obj\Debug\net8.0-windows\Exercício___Get_Set.Form2.resources
+C:\Users\ertus\Desktop\Exercício - Get-Set\obj\Debug\net8.0-windows\Exercício___Get_Set.Form3.resources
+C:\Users\ertus\Desktop\Exercício - Get-Set\obj\Debug\net8.0-windows\Exercício - Get-Set.csproj.GenerateResource.cache
+C:\Users\ertus\Desktop\Exercício - Get-Set\obj\Debug\net8.0-windows\Exercício - Get-Set.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ertus\Desktop\Exercício - Get-Set\obj\Debug\net8.0-windows\Exercício - Get-Set.AssemblyInfoInputs.cache
+C:\Users\ertus\Desktop\Exercício - Get-Set\obj\Debug\net8.0-windows\Exercício - Get-Set.AssemblyInfo.cs
+C:\Users\ertus\Desktop\Exercício - Get-Set\obj\Debug\net8.0-windows\Exercício - Get-Set.csproj.CoreCompileInputs.cache
+C:\Users\ertus\Desktop\Exercício - Get-Set\obj\Debug\net8.0-windows\Exercício - Get-Set.dll
+C:\Users\ertus\Desktop\Exercício - Get-Set\obj\Debug\net8.0-windows\refint\Exercício - Get-Set.dll
+C:\Users\ertus\Desktop\Exercício - Get-Set\obj\Debug\net8.0-windows\Exercício - Get-Set.pdb
+C:\Users\ertus\Desktop\Exercício - Get-Set\obj\Debug\net8.0-windows\Exercício - Get-Set.genruntimeconfig.cache
+C:\Users\ertus\Desktop\Exercício - Get-Set\obj\Debug\net8.0-windows\ref\Exercício - Get-Set.dll

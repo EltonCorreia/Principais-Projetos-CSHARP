@@ -1,0 +1,9 @@
+C:\Users\Lab\Desktop\PRJ_Infos\PRJ_Infos\bin\Debug\PRJ_Infos.exe.config
+C:\Users\Lab\Desktop\PRJ_Infos\PRJ_Infos\bin\Debug\PRJ_Infos.exe
+C:\Users\Lab\Desktop\PRJ_Infos\PRJ_Infos\bin\Debug\PRJ_Infos.pdb
+C:\Users\Lab\Desktop\PRJ_Infos\PRJ_Infos\obj\Debug\PRJ_Infos.csprojResolveAssemblyReference.cache
+C:\Users\Lab\Desktop\PRJ_Infos\PRJ_Infos\obj\Debug\PRJ_Infos.Form1.resources
+C:\Users\Lab\Desktop\PRJ_Infos\PRJ_Infos\obj\Debug\PRJ_Infos.Properties.Resources.resources
+C:\Users\Lab\Desktop\PRJ_Infos\PRJ_Infos\obj\Debug\PRJ_Infos.csproj.GenerateResource.Cache
+C:\Users\Lab\Desktop\PRJ_Infos\PRJ_Infos\obj\Debug\PRJ_Infos.exe
+C:\Users\Lab\Desktop\PRJ_Infos\PRJ_Infos\obj\Debug\PRJ_Infos.pdb

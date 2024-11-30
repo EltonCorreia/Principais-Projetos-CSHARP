@@ -1,0 +1,9 @@
+C:\Users\Lab\Desktop\PrjArraySimples1\PrjArraySimples1\bin\Debug\PrjArraySimples1.exe.config
+C:\Users\Lab\Desktop\PrjArraySimples1\PrjArraySimples1\bin\Debug\PrjArraySimples1.exe
+C:\Users\Lab\Desktop\PrjArraySimples1\PrjArraySimples1\bin\Debug\PrjArraySimples1.pdb
+C:\Users\Lab\Desktop\PrjArraySimples1\PrjArraySimples1\obj\Debug\PrjArraySimples1.csprojResolveAssemblyReference.cache
+C:\Users\Lab\Desktop\PrjArraySimples1\PrjArraySimples1\obj\Debug\PrjArraySimples1.Form1.resources
+C:\Users\Lab\Desktop\PrjArraySimples1\PrjArraySimples1\obj\Debug\PrjArraySimples1.Properties.Resources.resources
+C:\Users\Lab\Desktop\PrjArraySimples1\PrjArraySimples1\obj\Debug\PrjArraySimples1.csproj.GenerateResource.Cache
+C:\Users\Lab\Desktop\PrjArraySimples1\PrjArraySimples1\obj\Debug\PrjArraySimples1.exe
+C:\Users\Lab\Desktop\PrjArraySimples1\PrjArraySimples1\obj\Debug\PrjArraySimples1.pdb

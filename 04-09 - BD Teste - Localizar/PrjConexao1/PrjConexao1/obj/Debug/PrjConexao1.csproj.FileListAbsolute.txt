@@ -1,0 +1,13 @@
+C:\Users\Lab\Desktop\PrjConexao1\PrjConexao1\bin\Debug\PrjConexao1.exe.config
+C:\Users\Lab\Desktop\PrjConexao1\PrjConexao1\bin\Debug\PrjConexao1.exe
+C:\Users\Lab\Desktop\PrjConexao1\PrjConexao1\bin\Debug\PrjConexao1.pdb
+C:\Users\Lab\Desktop\PrjConexao1\PrjConexao1\obj\Debug\PrjConexao1.csprojResolveAssemblyReference.cache
+C:\Users\Lab\Desktop\PrjConexao1\PrjConexao1\obj\Debug\PrjConexao1.Form1.resources
+C:\Users\Lab\Desktop\PrjConexao1\PrjConexao1\obj\Debug\PrjConexao1.Properties.Resources.resources
+C:\Users\Lab\Desktop\PrjConexao1\PrjConexao1\obj\Debug\PrjConexao1.csproj.GenerateResource.Cache
+C:\Users\Lab\Desktop\PrjConexao1\PrjConexao1\obj\Debug\PrjConexao1.exe
+C:\Users\Lab\Desktop\PrjConexao1\PrjConexao1\obj\Debug\PrjConexao1.pdb
+C:\Users\Lab\Documents\PrjConexao1\PrjConexao1\bin\Debug\PrjConexao1.exe.config
+C:\Users\Lab\Documents\PrjConexao1\PrjConexao1\obj\Debug\PrjConexao1.exe
+C:\Users\Lab\Documents\PrjConexao1\PrjConexao1\obj\Debug\PrjConexao1.pdb
+C:\Users\Lab\Desktop\PrjConexao1\PrjConexao1\obj\Debug\PrjConexao1.FRMLocalizar.resources

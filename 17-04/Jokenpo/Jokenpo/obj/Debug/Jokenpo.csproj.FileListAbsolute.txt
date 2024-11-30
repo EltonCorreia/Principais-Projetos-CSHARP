@@ -1,0 +1,12 @@
+C:\Users\Lab\Desktop\Jokenpo\Jokenpo\bin\Debug\Jokenpo.exe.config
+C:\Users\Lab\Desktop\Jokenpo\Jokenpo\bin\Debug\Jokenpo.exe
+C:\Users\Lab\Desktop\Jokenpo\Jokenpo\bin\Debug\Jokenpo.pdb
+C:\Users\Lab\Desktop\Jokenpo\Jokenpo\obj\Debug\Jokenpo.csprojResolveAssemblyReference.cache
+C:\Users\Lab\Desktop\Jokenpo\Jokenpo\obj\Debug\Jokenpo.Form1.resources
+C:\Users\Lab\Desktop\Jokenpo\Jokenpo\obj\Debug\Jokenpo.Properties.Resources.resources
+C:\Users\Lab\Desktop\Jokenpo\Jokenpo\obj\Debug\Jokenpo.csproj.GenerateResource.Cache
+C:\Users\Lab\Desktop\Jokenpo\Jokenpo\obj\Debug\Jokenpo.exe
+C:\Users\Lab\Desktop\Jokenpo\Jokenpo\obj\Debug\Jokenpo.pdb
+F:\ETEC - ALGORITMOS\2024\C#\17-04\Jokenpo\Jokenpo\bin\Debug\Jokenpo.exe.config
+F:\ETEC - ALGORITMOS\2024\C#\17-04\Jokenpo\Jokenpo\obj\Debug\Jokenpo.exe
+F:\ETEC - ALGORITMOS\2024\C#\17-04\Jokenpo\Jokenpo\obj\Debug\Jokenpo.pdb

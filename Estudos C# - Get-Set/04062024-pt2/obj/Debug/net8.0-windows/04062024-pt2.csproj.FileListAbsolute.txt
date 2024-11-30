@@ -1,0 +1,36 @@
+C:\Users\ertus\source\repos\04062024-pt2\bin\Debug\net8.0-windows\04062024-pt2.exe
+C:\Users\ertus\source\repos\04062024-pt2\bin\Debug\net8.0-windows\04062024-pt2.deps.json
+C:\Users\ertus\source\repos\04062024-pt2\bin\Debug\net8.0-windows\04062024-pt2.runtimeconfig.json
+C:\Users\ertus\source\repos\04062024-pt2\bin\Debug\net8.0-windows\04062024-pt2.dll
+C:\Users\ertus\source\repos\04062024-pt2\bin\Debug\net8.0-windows\04062024-pt2.pdb
+C:\Users\ertus\source\repos\04062024-pt2\obj\Debug\net8.0-windows\_04062024_pt2.Form1.resources
+C:\Users\ertus\source\repos\04062024-pt2\obj\Debug\net8.0-windows\_04062024_pt2.Form2.resources
+C:\Users\ertus\source\repos\04062024-pt2\obj\Debug\net8.0-windows\04062024-pt2.csproj.GenerateResource.cache
+C:\Users\ertus\source\repos\04062024-pt2\obj\Debug\net8.0-windows\04062024-pt2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ertus\source\repos\04062024-pt2\obj\Debug\net8.0-windows\04062024-pt2.AssemblyInfoInputs.cache
+C:\Users\ertus\source\repos\04062024-pt2\obj\Debug\net8.0-windows\04062024-pt2.AssemblyInfo.cs
+C:\Users\ertus\source\repos\04062024-pt2\obj\Debug\net8.0-windows\04062024-pt2.csproj.CoreCompileInputs.cache
+C:\Users\ertus\source\repos\04062024-pt2\obj\Debug\net8.0-windows\04062024-pt2.dll
+C:\Users\ertus\source\repos\04062024-pt2\obj\Debug\net8.0-windows\refint\04062024-pt2.dll
+C:\Users\ertus\source\repos\04062024-pt2\obj\Debug\net8.0-windows\04062024-pt2.pdb
+C:\Users\ertus\source\repos\04062024-pt2\obj\Debug\net8.0-windows\04062024-pt2.genruntimeconfig.cache
+C:\Users\ertus\source\repos\04062024-pt2\obj\Debug\net8.0-windows\ref\04062024-pt2.dll
+C:\Users\ertus\source\repos\04062024-pt2\obj\Debug\net8.0-windows\_04062024_pt2.Form3.resources
+C:\Users\ertus\Downloads\Estudos C# - Get-Set\04062024-pt2\bin\Debug\net8.0-windows\04062024-pt2.exe
+C:\Users\ertus\Downloads\Estudos C# - Get-Set\04062024-pt2\bin\Debug\net8.0-windows\04062024-pt2.deps.json
+C:\Users\ertus\Downloads\Estudos C# - Get-Set\04062024-pt2\bin\Debug\net8.0-windows\04062024-pt2.runtimeconfig.json
+C:\Users\ertus\Downloads\Estudos C# - Get-Set\04062024-pt2\bin\Debug\net8.0-windows\04062024-pt2.dll
+C:\Users\ertus\Downloads\Estudos C# - Get-Set\04062024-pt2\bin\Debug\net8.0-windows\04062024-pt2.pdb
+C:\Users\ertus\Downloads\Estudos C# - Get-Set\04062024-pt2\obj\Debug\net8.0-windows\_04062024_pt2.Form1.resources
+C:\Users\ertus\Downloads\Estudos C# - Get-Set\04062024-pt2\obj\Debug\net8.0-windows\_04062024_pt2.Form2.resources
+C:\Users\ertus\Downloads\Estudos C# - Get-Set\04062024-pt2\obj\Debug\net8.0-windows\_04062024_pt2.Form3.resources
+C:\Users\ertus\Downloads\Estudos C# - Get-Set\04062024-pt2\obj\Debug\net8.0-windows\04062024-pt2.csproj.GenerateResource.cache
+C:\Users\ertus\Downloads\Estudos C# - Get-Set\04062024-pt2\obj\Debug\net8.0-windows\04062024-pt2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ertus\Downloads\Estudos C# - Get-Set\04062024-pt2\obj\Debug\net8.0-windows\04062024-pt2.AssemblyInfoInputs.cache
+C:\Users\ertus\Downloads\Estudos C# - Get-Set\04062024-pt2\obj\Debug\net8.0-windows\04062024-pt2.AssemblyInfo.cs
+C:\Users\ertus\Downloads\Estudos C# - Get-Set\04062024-pt2\obj\Debug\net8.0-windows\04062024-pt2.csproj.CoreCompileInputs.cache
+C:\Users\ertus\Downloads\Estudos C# - Get-Set\04062024-pt2\obj\Debug\net8.0-windows\04062024-pt2.dll
+C:\Users\ertus\Downloads\Estudos C# - Get-Set\04062024-pt2\obj\Debug\net8.0-windows\refint\04062024-pt2.dll
+C:\Users\ertus\Downloads\Estudos C# - Get-Set\04062024-pt2\obj\Debug\net8.0-windows\04062024-pt2.pdb
+C:\Users\ertus\Downloads\Estudos C# - Get-Set\04062024-pt2\obj\Debug\net8.0-windows\04062024-pt2.genruntimeconfig.cache
+C:\Users\ertus\Downloads\Estudos C# - Get-Set\04062024-pt2\obj\Debug\net8.0-windows\ref\04062024-pt2.dll

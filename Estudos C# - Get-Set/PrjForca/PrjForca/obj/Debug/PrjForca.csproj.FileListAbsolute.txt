@@ -1,0 +1,18 @@
+C:\Users\Lab\Desktop\PrjForca\PrjForca\bin\Debug\PrjForca.exe.config
+C:\Users\Lab\Desktop\PrjForca\PrjForca\bin\Debug\PrjForca.exe
+C:\Users\Lab\Desktop\PrjForca\PrjForca\bin\Debug\PrjForca.pdb
+C:\Users\Lab\Desktop\PrjForca\PrjForca\obj\Debug\PrjForca.csprojResolveAssemblyReference.cache
+C:\Users\Lab\Desktop\PrjForca\PrjForca\obj\Debug\PrjForca.Form1.resources
+C:\Users\Lab\Desktop\PrjForca\PrjForca\obj\Debug\PrjForca.Properties.Resources.resources
+C:\Users\Lab\Desktop\PrjForca\PrjForca\obj\Debug\PrjForca.csproj.GenerateResource.Cache
+C:\Users\Lab\Desktop\PrjForca\PrjForca\obj\Debug\PrjForca.exe
+C:\Users\Lab\Desktop\PrjForca\PrjForca\obj\Debug\PrjForca.pdb
+F:\ETEC - ALGORITMOS\2024\C#\24-04\PrjForca\PrjForca\bin\Debug\PrjForca.exe.config
+F:\ETEC - ALGORITMOS\2024\C#\24-04\PrjForca\PrjForca\obj\Debug\PrjForca.exe
+F:\ETEC - ALGORITMOS\2024\C#\24-04\PrjForca\PrjForca\obj\Debug\PrjForca.pdb
+F:\ETEC - ALGORITMOS\2024\C#\24-04\PrjForca\PrjForca\bin\Debug\PrjForca.exe
+F:\ETEC - ALGORITMOS\2024\C#\24-04\PrjForca\PrjForca\bin\Debug\PrjForca.pdb
+F:\ETEC - ALGORITMOS\2024\C#\24-04\PrjForca\PrjForca\obj\Debug\PrjForca.csprojResolveAssemblyReference.cache
+F:\ETEC - ALGORITMOS\2024\C#\24-04\PrjForca\PrjForca\obj\Debug\PrjForca.Form1.resources
+F:\ETEC - ALGORITMOS\2024\C#\24-04\PrjForca\PrjForca\obj\Debug\PrjForca.Properties.Resources.resources
+F:\ETEC - ALGORITMOS\2024\C#\24-04\PrjForca\PrjForca\obj\Debug\PrjForca.csproj.GenerateResource.Cache

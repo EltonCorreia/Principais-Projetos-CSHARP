@@ -1,0 +1,18 @@
+C:\Users\ertus\source\repos\Avaliação C# - Nome-Sobrenome\bin\Debug\net8.0-windows\Avaliação C# - Nome-Sobrenome.exe
+C:\Users\ertus\source\repos\Avaliação C# - Nome-Sobrenome\bin\Debug\net8.0-windows\Avaliação C# - Nome-Sobrenome.deps.json
+C:\Users\ertus\source\repos\Avaliação C# - Nome-Sobrenome\bin\Debug\net8.0-windows\Avaliação C# - Nome-Sobrenome.runtimeconfig.json
+C:\Users\ertus\source\repos\Avaliação C# - Nome-Sobrenome\bin\Debug\net8.0-windows\Avaliação C# - Nome-Sobrenome.dll
+C:\Users\ertus\source\repos\Avaliação C# - Nome-Sobrenome\bin\Debug\net8.0-windows\Avaliação C# - Nome-Sobrenome.pdb
+C:\Users\ertus\source\repos\Avaliação C# - Nome-Sobrenome\obj\Debug\net8.0-windows\Avaliação_C____Nome_Sobrenome.Form1.resources
+C:\Users\ertus\source\repos\Avaliação C# - Nome-Sobrenome\obj\Debug\net8.0-windows\Avaliação_C____Nome_Sobrenome.Form2.resources
+C:\Users\ertus\source\repos\Avaliação C# - Nome-Sobrenome\obj\Debug\net8.0-windows\Avaliação_C____Nome_Sobrenome.Form3.resources
+C:\Users\ertus\source\repos\Avaliação C# - Nome-Sobrenome\obj\Debug\net8.0-windows\Avaliação C# - Nome-Sobrenome.csproj.GenerateResource.cache
+C:\Users\ertus\source\repos\Avaliação C# - Nome-Sobrenome\obj\Debug\net8.0-windows\Avaliação C# - Nome-Sobrenome.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ertus\source\repos\Avaliação C# - Nome-Sobrenome\obj\Debug\net8.0-windows\Avaliação C# - Nome-Sobrenome.AssemblyInfoInputs.cache
+C:\Users\ertus\source\repos\Avaliação C# - Nome-Sobrenome\obj\Debug\net8.0-windows\Avaliação C# - Nome-Sobrenome.AssemblyInfo.cs
+C:\Users\ertus\source\repos\Avaliação C# - Nome-Sobrenome\obj\Debug\net8.0-windows\Avaliação C# - Nome-Sobrenome.csproj.CoreCompileInputs.cache
+C:\Users\ertus\source\repos\Avaliação C# - Nome-Sobrenome\obj\Debug\net8.0-windows\Avaliação C# - Nome-Sobrenome.dll
+C:\Users\ertus\source\repos\Avaliação C# - Nome-Sobrenome\obj\Debug\net8.0-windows\refint\Avaliação C# - Nome-Sobrenome.dll
+C:\Users\ertus\source\repos\Avaliação C# - Nome-Sobrenome\obj\Debug\net8.0-windows\Avaliação C# - Nome-Sobrenome.pdb
+C:\Users\ertus\source\repos\Avaliação C# - Nome-Sobrenome\obj\Debug\net8.0-windows\Avaliação C# - Nome-Sobrenome.genruntimeconfig.cache
+C:\Users\ertus\source\repos\Avaliação C# - Nome-Sobrenome\obj\Debug\net8.0-windows\ref\Avaliação C# - Nome-Sobrenome.dll

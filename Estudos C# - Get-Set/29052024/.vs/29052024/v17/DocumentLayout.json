@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ertus\\Downloads\\Estudos C# - Get-Set\\29052024\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DE7E71A6-B809-4084-9850-9AA3ED296B5D}|29052024\\29052024.csproj|C:\\Users\\ertus\\Downloads\\Estudos C# - Get-Set\\29052024\\29052024\\receber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE7E71A6-B809-4084-9850-9AA3ED296B5D}|29052024\\29052024.csproj|solutionrelative:29052024\\receber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE7E71A6-B809-4084-9850-9AA3ED296B5D}|29052024\\29052024.csproj|C:\\Users\\ertus\\Downloads\\Estudos C# - Get-Set\\29052024\\29052024\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE7E71A6-B809-4084-9850-9AA3ED296B5D}|29052024\\29052024.csproj|solutionrelative:29052024\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE7E71A6-B809-4084-9850-9AA3ED296B5D}|29052024\\29052024.csproj|C:\\Users\\ertus\\Downloads\\Estudos C# - Get-Set\\29052024\\29052024\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DE7E71A6-B809-4084-9850-9AA3ED296B5D}|29052024\\29052024.csproj|solutionrelative:29052024\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE7E71A6-B809-4084-9850-9AA3ED296B5D}|29052024\\29052024.csproj|c:\\users\\ertus\\downloads\\estudos c# - get-set\\29052024\\29052024\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE7E71A6-B809-4084-9850-9AA3ED296B5D}|29052024\\29052024.csproj|solutionrelative:29052024\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\ertus\\Downloads\\Estudos C# - Get-Set\\29052024\\29052024\\Form2.cs",
+              "RelativeDocumentMoniker": "29052024\\Form2.cs",
+              "ToolTip": "C:\\Users\\ertus\\Downloads\\Estudos C# - Get-Set\\29052024\\29052024\\Form2.cs",
+              "RelativeToolTip": "29052024\\Form2.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T21:25:00.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\ertus\\Downloads\\Estudos C# - Get-Set\\29052024\\29052024\\Form1.cs",
+              "RelativeDocumentMoniker": "29052024\\Form1.cs",
+              "ToolTip": "C:\\Users\\ertus\\Downloads\\Estudos C# - Get-Set\\29052024\\29052024\\Form1.cs",
+              "RelativeToolTip": "29052024\\Form1.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABoAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T21:21:24.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Receber.cs",
+              "DocumentMoniker": "C:\\Users\\ertus\\Downloads\\Estudos C# - Get-Set\\29052024\\29052024\\Receber.cs",
+              "RelativeDocumentMoniker": "29052024\\Receber.cs",
+              "ToolTip": "C:\\Users\\ertus\\Downloads\\Estudos C# - Get-Set\\29052024\\29052024\\Receber.cs",
+              "RelativeToolTip": "29052024\\Receber.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T21:16:55.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ertus\\Downloads\\Estudos C# - Get-Set\\29052024\\29052024\\Form1.cs",
+              "RelativeDocumentMoniker": "29052024\\Form1.cs",
+              "ToolTip": "C:\\Users\\ertus\\Downloads\\Estudos C# - Get-Set\\29052024\\29052024\\Form1.cs [Design]",
+              "RelativeToolTip": "29052024\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T20:50:29.795Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

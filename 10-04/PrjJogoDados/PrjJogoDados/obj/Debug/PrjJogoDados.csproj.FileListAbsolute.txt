@@ -1,0 +1,18 @@
+C:\Users\Lab\Desktop\PrjJogoDados\PrjJogoDados\bin\Debug\PrjJogoDados.exe.config
+C:\Users\Lab\Desktop\PrjJogoDados\PrjJogoDados\bin\Debug\PrjJogoDados.exe
+C:\Users\Lab\Desktop\PrjJogoDados\PrjJogoDados\bin\Debug\PrjJogoDados.pdb
+C:\Users\Lab\Desktop\PrjJogoDados\PrjJogoDados\obj\Debug\PrjJogoDados.csprojResolveAssemblyReference.cache
+C:\Users\Lab\Desktop\PrjJogoDados\PrjJogoDados\obj\Debug\PrjJogoDados.JogoDados.resources
+C:\Users\Lab\Desktop\PrjJogoDados\PrjJogoDados\obj\Debug\PrjJogoDados.Properties.Resources.resources
+C:\Users\Lab\Desktop\PrjJogoDados\PrjJogoDados\obj\Debug\PrjJogoDados.csproj.GenerateResource.Cache
+C:\Users\Lab\Desktop\PrjJogoDados\PrjJogoDados\obj\Debug\PrjJogoDados.exe
+C:\Users\Lab\Desktop\PrjJogoDados\PrjJogoDados\obj\Debug\PrjJogoDados.pdb
+F:\ETEC - ALGORITMOS\2024\C#\10-04\PrjJogoDados\PrjJogoDados\bin\Debug\PrjJogoDados.exe.config
+F:\ETEC - ALGORITMOS\2024\C#\10-04\PrjJogoDados\PrjJogoDados\obj\Debug\PrjJogoDados.exe
+F:\ETEC - ALGORITMOS\2024\C#\10-04\PrjJogoDados\PrjJogoDados\obj\Debug\PrjJogoDados.pdb
+F:\ETEC - ALGORITMOS\2024\C#\10-04\PrjJogoDados\PrjJogoDados\bin\Debug\PrjJogoDados.exe
+F:\ETEC - ALGORITMOS\2024\C#\10-04\PrjJogoDados\PrjJogoDados\bin\Debug\PrjJogoDados.pdb
+F:\ETEC - ALGORITMOS\2024\C#\10-04\PrjJogoDados\PrjJogoDados\obj\Debug\PrjJogoDados.csprojResolveAssemblyReference.cache
+F:\ETEC - ALGORITMOS\2024\C#\10-04\PrjJogoDados\PrjJogoDados\obj\Debug\PrjJogoDados.JogoDados.resources
+F:\ETEC - ALGORITMOS\2024\C#\10-04\PrjJogoDados\PrjJogoDados\obj\Debug\PrjJogoDados.Properties.Resources.resources
+F:\ETEC - ALGORITMOS\2024\C#\10-04\PrjJogoDados\PrjJogoDados\obj\Debug\PrjJogoDados.csproj.GenerateResource.Cache

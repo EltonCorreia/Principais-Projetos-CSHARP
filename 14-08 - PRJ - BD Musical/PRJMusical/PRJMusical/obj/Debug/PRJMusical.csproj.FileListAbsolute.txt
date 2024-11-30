@@ -1,0 +1,9 @@
+C:\Users\Lab\Desktop\PRJMusical\PRJMusical\bin\Debug\PRJMusical.exe.config
+C:\Users\Lab\Desktop\PRJMusical\PRJMusical\bin\Debug\PRJMusical.exe
+C:\Users\Lab\Desktop\PRJMusical\PRJMusical\bin\Debug\PRJMusical.pdb
+C:\Users\Lab\Desktop\PRJMusical\PRJMusical\obj\Debug\PRJMusical.csprojResolveAssemblyReference.cache
+C:\Users\Lab\Desktop\PRJMusical\PRJMusical\obj\Debug\PRJMusical.Form1.resources
+C:\Users\Lab\Desktop\PRJMusical\PRJMusical\obj\Debug\PRJMusical.Properties.Resources.resources
+C:\Users\Lab\Desktop\PRJMusical\PRJMusical\obj\Debug\PRJMusical.csproj.GenerateResource.Cache
+C:\Users\Lab\Desktop\PRJMusical\PRJMusical\obj\Debug\PRJMusical.exe
+C:\Users\Lab\Desktop\PRJMusical\PRJMusical\obj\Debug\PRJMusical.pdb

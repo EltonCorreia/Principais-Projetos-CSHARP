@@ -1,0 +1,18 @@
+C:\Users\Lab\Desktop\PrjPrimeiraConexäo\PrjPrimeiraConexäo\bin\Debug\PrjPrimeiraConexäo.exe.config
+C:\Users\Lab\Desktop\PrjPrimeiraConexäo\PrjPrimeiraConexäo\bin\Debug\PrjPrimeiraConexäo.exe
+C:\Users\Lab\Desktop\PrjPrimeiraConexäo\PrjPrimeiraConexäo\bin\Debug\PrjPrimeiraConexäo.pdb
+C:\Users\Lab\Desktop\PrjPrimeiraConexäo\PrjPrimeiraConexäo\obj\Debug\PrjPrimeiraConexäo.csprojResolveAssemblyReference.cache
+C:\Users\Lab\Desktop\PrjPrimeiraConexäo\PrjPrimeiraConexäo\obj\Debug\PrjPrimeiraConexäo.Form1.resources
+C:\Users\Lab\Desktop\PrjPrimeiraConexäo\PrjPrimeiraConexäo\obj\Debug\PrjPrimeiraConexäo.Properties.Resources.resources
+C:\Users\Lab\Desktop\PrjPrimeiraConexäo\PrjPrimeiraConexäo\obj\Debug\PrjPrimeiraConexäo.csproj.GenerateResource.Cache
+C:\Users\Lab\Desktop\PrjPrimeiraConexäo\PrjPrimeiraConexäo\obj\Debug\PrjPrimeiraConexäo.exe
+C:\Users\Lab\Desktop\PrjPrimeiraConexäo\PrjPrimeiraConexäo\obj\Debug\PrjPrimeiraConexäo.pdb
+F:\ETEC - ALGORITMOS\2024\C#\31-07 - DB e C#\PrjPrimeiraConexäo\PrjPrimeiraConexäo\bin\Debug\PrjPrimeiraConexäo.exe.config
+F:\ETEC - ALGORITMOS\2024\C#\31-07 - DB e C#\PrjPrimeiraConexäo\PrjPrimeiraConexäo\obj\Debug\PrjPrimeiraConexäo.exe
+F:\ETEC - ALGORITMOS\2024\C#\31-07 - DB e C#\PrjPrimeiraConexäo\PrjPrimeiraConexäo\obj\Debug\PrjPrimeiraConexäo.pdb
+F:\ETEC - ALGORITMOS\2024\C#\31-07 - DB e C#\PrjPrimeiraConexäo\PrjPrimeiraConexäo\bin\Debug\PrjPrimeiraConexäo.exe
+F:\ETEC - ALGORITMOS\2024\C#\31-07 - DB e C#\PrjPrimeiraConexäo\PrjPrimeiraConexäo\bin\Debug\PrjPrimeiraConexäo.pdb
+F:\ETEC - ALGORITMOS\2024\C#\31-07 - DB e C#\PrjPrimeiraConexäo\PrjPrimeiraConexäo\obj\Debug\PrjPrimeiraConexäo.csprojResolveAssemblyReference.cache
+F:\ETEC - ALGORITMOS\2024\C#\31-07 - DB e C#\PrjPrimeiraConexäo\PrjPrimeiraConexäo\obj\Debug\PrjPrimeiraConexäo.Form1.resources
+F:\ETEC - ALGORITMOS\2024\C#\31-07 - DB e C#\PrjPrimeiraConexäo\PrjPrimeiraConexäo\obj\Debug\PrjPrimeiraConexäo.Properties.Resources.resources
+F:\ETEC - ALGORITMOS\2024\C#\31-07 - DB e C#\PrjPrimeiraConexäo\PrjPrimeiraConexäo\obj\Debug\PrjPrimeiraConexäo.csproj.GenerateResource.Cache

@@ -1,0 +1,20 @@
+C:\Users\ertus\Desktop\C# - Estudos\Calculadora\Calculadora - Estudo\Calculadora - Estudo\bin\Debug\Calculadora - Estudo.exe.config
+C:\Users\ertus\Desktop\C# - Estudos\Calculadora\Calculadora - Estudo\Calculadora - Estudo\bin\Debug\Calculadora - Estudo.exe
+C:\Users\ertus\Desktop\C# - Estudos\Calculadora\Calculadora - Estudo\Calculadora - Estudo\bin\Debug\Calculadora - Estudo.pdb
+C:\Users\ertus\Desktop\C# - Estudos\Calculadora\Calculadora - Estudo\Calculadora - Estudo\obj\Debug\Calculadora - Estudo.csproj.AssemblyReference.cache
+C:\Users\ertus\Desktop\C# - Estudos\Calculadora\Calculadora - Estudo\Calculadora - Estudo\obj\Debug\Calculadora___Estudo.Calculadora.resources
+C:\Users\ertus\Desktop\C# - Estudos\Calculadora\Calculadora - Estudo\Calculadora - Estudo\obj\Debug\Calculadora___Estudo.Properties.Resources.resources
+C:\Users\ertus\Desktop\C# - Estudos\Calculadora\Calculadora - Estudo\Calculadora - Estudo\obj\Debug\Calculadora - Estudo.csproj.GenerateResource.cache
+C:\Users\ertus\Desktop\C# - Estudos\Calculadora\Calculadora - Estudo\Calculadora - Estudo\obj\Debug\Calculadora - Estudo.csproj.CoreCompileInputs.cache
+C:\Users\ertus\Desktop\C# - Estudos\Calculadora\Calculadora - Estudo\Calculadora - Estudo\obj\Debug\Calculadora - Estudo.exe
+C:\Users\ertus\Desktop\C# - Estudos\Calculadora\Calculadora - Estudo\Calculadora - Estudo\obj\Debug\Calculadora - Estudo.pdb
+C:\Users\ertus\Downloads\C# - Estudos\Prj - Cópia\Calculadora\Calculadora - Estudo\Calculadora - Estudo\bin\Debug\Calculadora - Estudo.exe.config
+C:\Users\ertus\Downloads\C# - Estudos\Prj - Cópia\Calculadora\Calculadora - Estudo\Calculadora - Estudo\bin\Debug\Calculadora - Estudo.exe
+C:\Users\ertus\Downloads\C# - Estudos\Prj - Cópia\Calculadora\Calculadora - Estudo\Calculadora - Estudo\bin\Debug\Calculadora - Estudo.pdb
+C:\Users\ertus\Downloads\C# - Estudos\Prj - Cópia\Calculadora\Calculadora - Estudo\Calculadora - Estudo\obj\Debug\Calculadora - Estudo.csproj.AssemblyReference.cache
+C:\Users\ertus\Downloads\C# - Estudos\Prj - Cópia\Calculadora\Calculadora - Estudo\Calculadora - Estudo\obj\Debug\Calculadora___Estudo.Calculadora.resources
+C:\Users\ertus\Downloads\C# - Estudos\Prj - Cópia\Calculadora\Calculadora - Estudo\Calculadora - Estudo\obj\Debug\Calculadora___Estudo.Properties.Resources.resources
+C:\Users\ertus\Downloads\C# - Estudos\Prj - Cópia\Calculadora\Calculadora - Estudo\Calculadora - Estudo\obj\Debug\Calculadora - Estudo.csproj.GenerateResource.cache
+C:\Users\ertus\Downloads\C# - Estudos\Prj - Cópia\Calculadora\Calculadora - Estudo\Calculadora - Estudo\obj\Debug\Calculadora - Estudo.csproj.CoreCompileInputs.cache
+C:\Users\ertus\Downloads\C# - Estudos\Prj - Cópia\Calculadora\Calculadora - Estudo\Calculadora - Estudo\obj\Debug\Calculadora - Estudo.exe
+C:\Users\ertus\Downloads\C# - Estudos\Prj - Cópia\Calculadora\Calculadora - Estudo\Calculadora - Estudo\obj\Debug\Calculadora - Estudo.pdb

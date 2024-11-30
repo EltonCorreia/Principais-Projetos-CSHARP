@@ -1,0 +1,17 @@
+C:\Users\ertus\Desktop\01062024\01062024\bin\Debug\net8.0-windows\01062024.exe
+C:\Users\ertus\Desktop\01062024\01062024\bin\Debug\net8.0-windows\01062024.deps.json
+C:\Users\ertus\Desktop\01062024\01062024\bin\Debug\net8.0-windows\01062024.runtimeconfig.json
+C:\Users\ertus\Desktop\01062024\01062024\bin\Debug\net8.0-windows\01062024.dll
+C:\Users\ertus\Desktop\01062024\01062024\bin\Debug\net8.0-windows\01062024.pdb
+C:\Users\ertus\Desktop\01062024\01062024\obj\Debug\net8.0-windows\_01062024.Form1.resources
+C:\Users\ertus\Desktop\01062024\01062024\obj\Debug\net8.0-windows\_01062024.Form2.resources
+C:\Users\ertus\Desktop\01062024\01062024\obj\Debug\net8.0-windows\01062024.csproj.GenerateResource.cache
+C:\Users\ertus\Desktop\01062024\01062024\obj\Debug\net8.0-windows\01062024.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ertus\Desktop\01062024\01062024\obj\Debug\net8.0-windows\01062024.AssemblyInfoInputs.cache
+C:\Users\ertus\Desktop\01062024\01062024\obj\Debug\net8.0-windows\01062024.AssemblyInfo.cs
+C:\Users\ertus\Desktop\01062024\01062024\obj\Debug\net8.0-windows\01062024.csproj.CoreCompileInputs.cache
+C:\Users\ertus\Desktop\01062024\01062024\obj\Debug\net8.0-windows\01062024.dll
+C:\Users\ertus\Desktop\01062024\01062024\obj\Debug\net8.0-windows\refint\01062024.dll
+C:\Users\ertus\Desktop\01062024\01062024\obj\Debug\net8.0-windows\01062024.pdb
+C:\Users\ertus\Desktop\01062024\01062024\obj\Debug\net8.0-windows\01062024.genruntimeconfig.cache
+C:\Users\ertus\Desktop\01062024\01062024\obj\Debug\net8.0-windows\ref\01062024.dll

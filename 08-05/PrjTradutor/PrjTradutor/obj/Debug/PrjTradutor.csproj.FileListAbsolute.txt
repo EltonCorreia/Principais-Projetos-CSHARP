@@ -1,0 +1,9 @@
+C:\Users\Lab\Desktop\PrjTradutor\PrjTradutor\bin\Debug\PrjTradutor.exe.config
+C:\Users\Lab\Desktop\PrjTradutor\PrjTradutor\bin\Debug\PrjTradutor.exe
+C:\Users\Lab\Desktop\PrjTradutor\PrjTradutor\bin\Debug\PrjTradutor.pdb
+C:\Users\Lab\Desktop\PrjTradutor\PrjTradutor\obj\Debug\PrjTradutor.Form1.resources
+C:\Users\Lab\Desktop\PrjTradutor\PrjTradutor\obj\Debug\PrjTradutor.Properties.Resources.resources
+C:\Users\Lab\Desktop\PrjTradutor\PrjTradutor\obj\Debug\PrjTradutor.csproj.GenerateResource.Cache
+C:\Users\Lab\Desktop\PrjTradutor\PrjTradutor\obj\Debug\PrjTradutor.exe
+C:\Users\Lab\Desktop\PrjTradutor\PrjTradutor\obj\Debug\PrjTradutor.pdb
+C:\Users\Lab\Desktop\PrjTradutor\PrjTradutor\obj\Debug\PrjTradutor.csprojResolveAssemblyReference.cache

@@ -1,0 +1,12 @@
+C:\Users\Lab\Desktop\Provacalculadora\Provacalculadora\bin\Debug\Provacalculadora.exe.config
+C:\Users\Lab\Desktop\Provacalculadora\Provacalculadora\bin\Debug\Provacalculadora.exe
+C:\Users\Lab\Desktop\Provacalculadora\Provacalculadora\bin\Debug\Provacalculadora.pdb
+C:\Users\Lab\Desktop\Provacalculadora\Provacalculadora\obj\Debug\Provacalculadora.csprojResolveAssemblyReference.cache
+C:\Users\Lab\Desktop\Provacalculadora\Provacalculadora\obj\Debug\Provacalculadora.Form1.resources
+C:\Users\Lab\Desktop\Provacalculadora\Provacalculadora\obj\Debug\Provacalculadora.Properties.Resources.resources
+C:\Users\Lab\Desktop\Provacalculadora\Provacalculadora\obj\Debug\Provacalculadora.csproj.GenerateResource.Cache
+C:\Users\Lab\Desktop\Provacalculadora\Provacalculadora\obj\Debug\Provacalculadora.exe
+C:\Users\Lab\Desktop\Provacalculadora\Provacalculadora\obj\Debug\Provacalculadora.pdb
+F:\ETEC - ALGORITMOS\2024\C#\20-03\Provacalculadora\Provacalculadora\bin\Debug\Provacalculadora.exe.config
+F:\ETEC - ALGORITMOS\2024\C#\20-03\Provacalculadora\Provacalculadora\obj\Debug\Provacalculadora.exe
+F:\ETEC - ALGORITMOS\2024\C#\20-03\Provacalculadora\Provacalculadora\obj\Debug\Provacalculadora.pdb

@@ -1,0 +1,18 @@
+C:\Users\Lab\Desktop\PrjCalculadoraCientifica\PrjCalculadoraCientifica\bin\Debug\PrjCalculadoraCientifica.exe.config
+C:\Users\Lab\Desktop\PrjCalculadoraCientifica\PrjCalculadoraCientifica\bin\Debug\PrjCalculadoraCientifica.exe
+C:\Users\Lab\Desktop\PrjCalculadoraCientifica\PrjCalculadoraCientifica\bin\Debug\PrjCalculadoraCientifica.pdb
+C:\Users\Lab\Desktop\PrjCalculadoraCientifica\PrjCalculadoraCientifica\obj\Debug\PrjCalculadoraCientifica.csprojResolveAssemblyReference.cache
+C:\Users\Lab\Desktop\PrjCalculadoraCientifica\PrjCalculadoraCientifica\obj\Debug\PrjCalculadoraCientifica.Calculadora.resources
+C:\Users\Lab\Desktop\PrjCalculadoraCientifica\PrjCalculadoraCientifica\obj\Debug\PrjCalculadoraCientifica.Properties.Resources.resources
+C:\Users\Lab\Desktop\PrjCalculadoraCientifica\PrjCalculadoraCientifica\obj\Debug\PrjCalculadoraCientifica.csproj.GenerateResource.Cache
+C:\Users\Lab\Desktop\PrjCalculadoraCientifica\PrjCalculadoraCientifica\obj\Debug\PrjCalculadoraCientifica.exe
+C:\Users\Lab\Desktop\PrjCalculadoraCientifica\PrjCalculadoraCientifica\obj\Debug\PrjCalculadoraCientifica.pdb
+F:\ETEC - ALGORITMOS\2024\C#\27-03\PrjCalculadoraCientifica\PrjCalculadoraCientifica\bin\Debug\PrjCalculadoraCientifica.exe.config
+F:\ETEC - ALGORITMOS\2024\C#\27-03\PrjCalculadoraCientifica\PrjCalculadoraCientifica\obj\Debug\PrjCalculadoraCientifica.exe
+F:\ETEC - ALGORITMOS\2024\C#\27-03\PrjCalculadoraCientifica\PrjCalculadoraCientifica\obj\Debug\PrjCalculadoraCientifica.pdb
+F:\ETEC - ALGORITMOS\2024\C#\27-03\PrjCalculadoraCientifica\PrjCalculadoraCientifica\bin\Debug\PrjCalculadoraCientifica.exe
+F:\ETEC - ALGORITMOS\2024\C#\27-03\PrjCalculadoraCientifica\PrjCalculadoraCientifica\bin\Debug\PrjCalculadoraCientifica.pdb
+F:\ETEC - ALGORITMOS\2024\C#\27-03\PrjCalculadoraCientifica\PrjCalculadoraCientifica\obj\Debug\PrjCalculadoraCientifica.csprojResolveAssemblyReference.cache
+F:\ETEC - ALGORITMOS\2024\C#\27-03\PrjCalculadoraCientifica\PrjCalculadoraCientifica\obj\Debug\PrjCalculadoraCientifica.Calculadora.resources
+F:\ETEC - ALGORITMOS\2024\C#\27-03\PrjCalculadoraCientifica\PrjCalculadoraCientifica\obj\Debug\PrjCalculadoraCientifica.Properties.Resources.resources
+F:\ETEC - ALGORITMOS\2024\C#\27-03\PrjCalculadoraCientifica\PrjCalculadoraCientifica\obj\Debug\PrjCalculadoraCientifica.csproj.GenerateResource.Cache

@@ -1,0 +1,22 @@
+C:\Users\Lab\Desktop\PrjAula03\PrjAula03\bin\Debug\PrjAula03.exe.config
+C:\Users\Lab\Desktop\PrjAula03\PrjAula03\bin\Debug\PrjAula03.exe
+C:\Users\Lab\Desktop\PrjAula03\PrjAula03\bin\Debug\PrjAula03.pdb
+C:\Users\Lab\Desktop\PrjAula03\PrjAula03\obj\Debug\PrjAula03.csprojResolveAssemblyReference.cache
+C:\Users\Lab\Desktop\PrjAula03\PrjAula03\obj\Debug\PrjAula03.FrmMicelania03.resources
+C:\Users\Lab\Desktop\PrjAula03\PrjAula03\obj\Debug\PrjAula03.Properties.Resources.resources
+C:\Users\Lab\Desktop\PrjAula03\PrjAula03\obj\Debug\PrjAula03.csproj.GenerateResource.Cache
+C:\Users\Lab\Desktop\PrjAula03\PrjAula03\obj\Debug\PrjAula03.exe
+C:\Users\Lab\Desktop\PrjAula03\PrjAula03\obj\Debug\PrjAula03.pdb
+\\LAB22T-00\Server\PrjAula03\PrjAula03\bin\Debug\PrjAula03.exe.config
+\\LAB22T-00\Server\PrjAula03\PrjAula03\obj\Debug\PrjAula03.exe
+\\LAB22T-00\Server\PrjAula03\PrjAula03\obj\Debug\PrjAula03.pdb
+C:\Users\ertus\Desktop\C# - Estudos\Projetos em aula\08-03\PrjAula03\PrjAula03\bin\Debug\PrjAula03.exe.config
+C:\Users\ertus\Desktop\C# - Estudos\Projetos em aula\08-03\PrjAula03\PrjAula03\bin\Debug\PrjAula03.exe
+C:\Users\ertus\Desktop\C# - Estudos\Projetos em aula\08-03\PrjAula03\PrjAula03\bin\Debug\PrjAula03.pdb
+C:\Users\ertus\Desktop\C# - Estudos\Projetos em aula\08-03\PrjAula03\PrjAula03\obj\Debug\PrjAula03.csproj.AssemblyReference.cache
+C:\Users\ertus\Desktop\C# - Estudos\Projetos em aula\08-03\PrjAula03\PrjAula03\obj\Debug\PrjAula03.FrmMicelania03.resources
+C:\Users\ertus\Desktop\C# - Estudos\Projetos em aula\08-03\PrjAula03\PrjAula03\obj\Debug\PrjAula03.Properties.Resources.resources
+C:\Users\ertus\Desktop\C# - Estudos\Projetos em aula\08-03\PrjAula03\PrjAula03\obj\Debug\PrjAula03.csproj.GenerateResource.cache
+C:\Users\ertus\Desktop\C# - Estudos\Projetos em aula\08-03\PrjAula03\PrjAula03\obj\Debug\PrjAula03.csproj.CoreCompileInputs.cache
+C:\Users\ertus\Desktop\C# - Estudos\Projetos em aula\08-03\PrjAula03\PrjAula03\obj\Debug\PrjAula03.exe
+C:\Users\ertus\Desktop\C# - Estudos\Projetos em aula\08-03\PrjAula03\PrjAula03\obj\Debug\PrjAula03.pdb

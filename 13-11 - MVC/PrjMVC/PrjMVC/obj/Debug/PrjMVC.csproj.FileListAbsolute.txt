@@ -1,0 +1,21 @@
+C:\Users\Lab ETESP\Documents\PrjMVC\PrjMVC\bin\Debug\PrjMVC.exe.config
+C:\Users\Lab ETESP\Documents\PrjMVC\PrjMVC\bin\Debug\PrjMVC.exe
+C:\Users\Lab ETESP\Documents\PrjMVC\PrjMVC\bin\Debug\PrjMVC.pdb
+C:\Users\Lab ETESP\Documents\PrjMVC\PrjMVC\obj\Debug\PrjMVC.csprojAssemblyReference.cache
+C:\Users\Lab ETESP\Documents\PrjMVC\PrjMVC\obj\Debug\PrjMVC.Properties.Resources.resources
+C:\Users\Lab ETESP\Documents\PrjMVC\PrjMVC\obj\Debug\PrjMVC.csproj.GenerateResource.cache
+C:\Users\Lab ETESP\Documents\PrjMVC\PrjMVC\obj\Debug\PrjMVC.csproj.CoreCompileInputs.cache
+C:\Users\Lab ETESP\Documents\PrjMVC\PrjMVC\obj\Debug\PrjMVC.exe
+C:\Users\Lab ETESP\Documents\PrjMVC\PrjMVC\obj\Debug\PrjMVC.pdb
+C:\Users\Lab\Documents\PrjMVC\PrjMVC\bin\Debug\PrjMVC.exe.config
+C:\Users\Lab\Documents\PrjMVC\PrjMVC\obj\Debug\PrjMVC.exe
+C:\Users\Lab\Documents\PrjMVC\PrjMVC\obj\Debug\PrjMVC.pdb
+C:\Users\Lab\Documents\PrjMVC\PrjMVC\bin\Debug\PrjMVC.exe
+C:\Users\Lab\Documents\PrjMVC\PrjMVC\bin\Debug\PrjMVC.pdb
+C:\Users\Lab\Documents\PrjMVC\PrjMVC\obj\Debug\PrjMVC.csprojResolveAssemblyReference.cache
+C:\Users\Lab\Documents\PrjMVC\PrjMVC\obj\Debug\PrjMVC.Properties.Resources.resources
+C:\Users\Lab\Documents\PrjMVC\PrjMVC\obj\Debug\PrjMVC.Form1.resources
+C:\Users\Lab\Documents\PrjMVC\PrjMVC\obj\Debug\PrjMVC.csproj.GenerateResource.Cache
+C:\Users\Lab\Desktop\PrjMVC\PrjMVC\bin\Debug\PrjMVC.exe.config
+C:\Users\Lab\Desktop\PrjMVC\PrjMVC\obj\Debug\PrjMVC.exe
+C:\Users\Lab\Desktop\PrjMVC\PrjMVC\obj\Debug\PrjMVC.pdb

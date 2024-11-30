@@ -1,0 +1,38 @@
+C:\Users\Lab\Desktop\PrjQuiz\PrjQuiz\bin\Debug\PrjQuiz.exe.config
+C:\Users\Lab\Desktop\PrjQuiz\PrjQuiz\bin\Debug\PrjQuiz.exe
+C:\Users\Lab\Desktop\PrjQuiz\PrjQuiz\bin\Debug\PrjQuiz.pdb
+C:\Users\Lab\Desktop\PrjQuiz\PrjQuiz\obj\Debug\PrjQuiz.csprojResolveAssemblyReference.cache
+C:\Users\Lab\Desktop\PrjQuiz\PrjQuiz\obj\Debug\PrjQuiz.Properties.Resources.resources
+C:\Users\Lab\Desktop\PrjQuiz\PrjQuiz\obj\Debug\PrjQuiz.Q2.resources
+C:\Users\Lab\Desktop\PrjQuiz\PrjQuiz\obj\Debug\PrjQuiz.csproj.GenerateResource.Cache
+C:\Users\Lab\Desktop\PrjQuiz\PrjQuiz\obj\Debug\PrjQuiz.exe
+C:\Users\Lab\Desktop\PrjQuiz\PrjQuiz\obj\Debug\PrjQuiz.pdb
+C:\Users\Lab\Desktop\PrjQuiz\PrjQuiz\obj\Debug\PrjQuiz.Q1.resources
+C:\Users\Lab\Desktop\PrjQuiz\PrjQuiz\obj\Debug\PrjQuiz.Resposta.resources
+C:\Users\Lab\Desktop\PrjQuiz\PrjQuiz\obj\Debug\PrjQuiz.Q3.resources
+C:\Users\Lab\Desktop\PrjQuiz\PrjQuiz\obj\Debug\PrjQuiz.Q4.resources
+C:\Users\Lab\Desktop\PrjQuiz\PrjQuiz\obj\Debug\PrjQuiz.Q5.resources
+C:\Users\Lab\Desktop\PrjQuiz\PrjQuiz\obj\Debug\PrjQuiz.Q6.resources
+F:\ETEC - ALGORITMOS\2024\C#\22-05\PrjQuiz\PrjQuiz\bin\Debug\PrjQuiz.exe.config
+F:\ETEC - ALGORITMOS\2024\C#\22-05\PrjQuiz\PrjQuiz\obj\Debug\PrjQuiz.exe
+F:\ETEC - ALGORITMOS\2024\C#\22-05\PrjQuiz\PrjQuiz\obj\Debug\PrjQuiz.pdb
+C:\Users\ertus\Desktop\PrjQuiz\PrjQuiz\bin\Debug\PrjQuiz.exe.config
+C:\Users\ertus\Desktop\PrjQuiz\PrjQuiz\bin\Debug\PrjQuiz.exe
+C:\Users\ertus\Desktop\PrjQuiz\PrjQuiz\bin\Debug\PrjQuiz.pdb
+C:\Users\ertus\Desktop\PrjQuiz\PrjQuiz\obj\Debug\PrjQuiz.csproj.AssemblyReference.cache
+C:\Users\ertus\Desktop\PrjQuiz\PrjQuiz\obj\Debug\PrjQuiz.Q1.resources
+C:\Users\ertus\Desktop\PrjQuiz\PrjQuiz\obj\Debug\PrjQuiz.Properties.Resources.resources
+C:\Users\ertus\Desktop\PrjQuiz\PrjQuiz\obj\Debug\PrjQuiz.Q2.resources
+C:\Users\ertus\Desktop\PrjQuiz\PrjQuiz\obj\Debug\PrjQuiz.Q3.resources
+C:\Users\ertus\Desktop\PrjQuiz\PrjQuiz\obj\Debug\PrjQuiz.Q4.resources
+C:\Users\ertus\Desktop\PrjQuiz\PrjQuiz\obj\Debug\PrjQuiz.Q5.resources
+C:\Users\ertus\Desktop\PrjQuiz\PrjQuiz\obj\Debug\PrjQuiz.Q6.resources
+C:\Users\ertus\Desktop\PrjQuiz\PrjQuiz\obj\Debug\PrjQuiz.Resposta.resources
+C:\Users\ertus\Desktop\PrjQuiz\PrjQuiz\obj\Debug\PrjQuiz.csproj.GenerateResource.cache
+C:\Users\ertus\Desktop\PrjQuiz\PrjQuiz\obj\Debug\PrjQuiz.csproj.CoreCompileInputs.cache
+C:\Users\ertus\Desktop\PrjQuiz\PrjQuiz\obj\Debug\PrjQuiz.exe
+C:\Users\ertus\Desktop\PrjQuiz\PrjQuiz\obj\Debug\PrjQuiz.pdb
+C:\Users\ertus\Desktop\PrjQuiz\PrjQuiz\obj\Debug\PrjQuiz.Q10.resources
+C:\Users\ertus\Desktop\PrjQuiz\PrjQuiz\obj\Debug\PrjQuiz.Q7.resources
+C:\Users\ertus\Desktop\PrjQuiz\PrjQuiz\obj\Debug\PrjQuiz.Q8.resources
+C:\Users\ertus\Desktop\PrjQuiz\PrjQuiz\obj\Debug\PrjQuiz.Q9.resources

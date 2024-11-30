@@ -1,0 +1,9 @@
+C:\Users\Lab\Desktop\PrjConexao\PrjConexao\bin\Debug\PrjConexao.exe.config
+C:\Users\Lab\Desktop\PrjConexao\PrjConexao\bin\Debug\PrjConexao.exe
+C:\Users\Lab\Desktop\PrjConexao\PrjConexao\bin\Debug\PrjConexao.pdb
+C:\Users\Lab\Desktop\PrjConexao\PrjConexao\obj\Debug\PrjConexao.Form1.resources
+C:\Users\Lab\Desktop\PrjConexao\PrjConexao\obj\Debug\PrjConexao.Properties.Resources.resources
+C:\Users\Lab\Desktop\PrjConexao\PrjConexao\obj\Debug\PrjConexao.csproj.GenerateResource.Cache
+C:\Users\Lab\Desktop\PrjConexao\PrjConexao\obj\Debug\PrjConexao.exe
+C:\Users\Lab\Desktop\PrjConexao\PrjConexao\obj\Debug\PrjConexao.pdb
+C:\Users\Lab\Desktop\PrjConexao\PrjConexao\obj\Debug\PrjConexao.csprojResolveAssemblyReference.cache

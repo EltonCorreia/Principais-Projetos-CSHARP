@@ -1,0 +1,34 @@
+C:\Users\Lab ETESP\Documents\PrjPDF\PrjPDF\obj\Debug\PrjPDF.csprojAssemblyReference.cache
+C:\Users\Lab ETESP\Documents\PrjPDF\PrjPDF\obj\Debug\PrjPDF.Form1.resources
+C:\Users\Lab ETESP\Documents\PrjPDF\PrjPDF\obj\Debug\PrjPDF.Properties.Resources.resources
+C:\Users\Lab ETESP\Documents\PrjPDF\PrjPDF\obj\Debug\PrjPDF.csproj.GenerateResource.cache
+C:\Users\Lab ETESP\Documents\PrjPDF\PrjPDF\obj\Debug\PrjPDF.csproj.CoreCompileInputs.cache
+C:\Users\Lab ETESP\Documents\PrjPDF\PrjPDF\bin\Debug\PrjPDF.exe.config
+C:\Users\Lab ETESP\Documents\PrjPDF\PrjPDF\bin\Debug\PrjPDF.exe
+C:\Users\Lab ETESP\Documents\PrjPDF\PrjPDF\bin\Debug\PrjPDF.pdb
+C:\Users\Lab ETESP\Documents\PrjPDF\PrjPDF\bin\Debug\itextsharp.dll
+C:\Users\Lab ETESP\Documents\PrjPDF\PrjPDF\obj\Debug\PrjPDF.csproj.CopyComplete
+C:\Users\Lab ETESP\Documents\PrjPDF\PrjPDF\obj\Debug\PrjPDF.exe
+C:\Users\Lab ETESP\Documents\PrjPDF\PrjPDF\obj\Debug\PrjPDF.pdb
+E:\DS II\PrjPDF\PrjPDF\bin\Debug\PrjPDF.exe.config
+E:\DS II\PrjPDF\PrjPDF\bin\Debug\PrjPDF.exe
+E:\DS II\PrjPDF\PrjPDF\bin\Debug\PrjPDF.pdb
+E:\DS II\PrjPDF\PrjPDF\bin\Debug\itextsharp.dll
+E:\DS II\PrjPDF\PrjPDF\obj\Debug\PrjPDF.csprojAssemblyReference.cache
+E:\DS II\PrjPDF\PrjPDF\obj\Debug\PrjPDF.Form1.resources
+E:\DS II\PrjPDF\PrjPDF\obj\Debug\PrjPDF.Properties.Resources.resources
+E:\DS II\PrjPDF\PrjPDF\obj\Debug\PrjPDF.csproj.GenerateResource.cache
+E:\DS II\PrjPDF\PrjPDF\obj\Debug\PrjPDF.csproj.CoreCompileInputs.cache
+E:\DS II\PrjPDF\PrjPDF\obj\Debug\PrjPDF.csproj.CopyComplete
+E:\DS II\PrjPDF\PrjPDF\obj\Debug\PrjPDF.exe
+E:\DS II\PrjPDF\PrjPDF\obj\Debug\PrjPDF.pdb
+C:\Users\Lab\Documents\PrjPDF\PrjPDF\bin\Debug\PrjPDF.exe.config
+C:\Users\Lab\Documents\PrjPDF\PrjPDF\bin\Debug\PrjPDF.exe
+C:\Users\Lab\Documents\PrjPDF\PrjPDF\bin\Debug\PrjPDF.pdb
+C:\Users\Lab\Documents\PrjPDF\PrjPDF\bin\Debug\itextsharp.dll
+C:\Users\Lab\Documents\PrjPDF\PrjPDF\obj\Debug\PrjPDF.csprojResolveAssemblyReference.cache
+C:\Users\Lab\Documents\PrjPDF\PrjPDF\obj\Debug\PrjPDF.Form1.resources
+C:\Users\Lab\Documents\PrjPDF\PrjPDF\obj\Debug\PrjPDF.Properties.Resources.resources
+C:\Users\Lab\Documents\PrjPDF\PrjPDF\obj\Debug\PrjPDF.csproj.GenerateResource.Cache
+C:\Users\Lab\Documents\PrjPDF\PrjPDF\obj\Debug\PrjPDF.exe
+C:\Users\Lab\Documents\PrjPDF\PrjPDF\obj\Debug\PrjPDF.pdb

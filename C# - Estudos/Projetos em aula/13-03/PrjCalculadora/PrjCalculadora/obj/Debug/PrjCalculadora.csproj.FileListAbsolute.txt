@@ -1,0 +1,22 @@
+C:\Users\Lab\Desktop\PrjCalculadora\PrjCalculadora\bin\Debug\PrjCalculadora.exe.config
+C:\Users\Lab\Desktop\PrjCalculadora\PrjCalculadora\bin\Debug\PrjCalculadora.exe
+C:\Users\Lab\Desktop\PrjCalculadora\PrjCalculadora\bin\Debug\PrjCalculadora.pdb
+C:\Users\Lab\Desktop\PrjCalculadora\PrjCalculadora\obj\Debug\PrjCalculadora.csprojResolveAssemblyReference.cache
+C:\Users\Lab\Desktop\PrjCalculadora\PrjCalculadora\obj\Debug\PrjCalculadora.Form1.resources
+C:\Users\Lab\Desktop\PrjCalculadora\PrjCalculadora\obj\Debug\PrjCalculadora.Properties.Resources.resources
+C:\Users\Lab\Desktop\PrjCalculadora\PrjCalculadora\obj\Debug\PrjCalculadora.csproj.GenerateResource.Cache
+C:\Users\Lab\Desktop\PrjCalculadora\PrjCalculadora\obj\Debug\PrjCalculadora.exe
+C:\Users\Lab\Desktop\PrjCalculadora\PrjCalculadora\obj\Debug\PrjCalculadora.pdb
+E:\ETEC - ALGORITMOS\2024\C#\13-03\PrjCalculadora\PrjCalculadora\bin\Debug\PrjCalculadora.exe.config
+E:\ETEC - ALGORITMOS\2024\C#\13-03\PrjCalculadora\PrjCalculadora\obj\Debug\PrjCalculadora.exe
+E:\ETEC - ALGORITMOS\2024\C#\13-03\PrjCalculadora\PrjCalculadora\obj\Debug\PrjCalculadora.pdb
+C:\Users\ertus\Desktop\C# - Estudos\Projetos em aula\13-03\PrjCalculadora\PrjCalculadora\bin\Debug\PrjCalculadora.exe.config
+C:\Users\ertus\Desktop\C# - Estudos\Projetos em aula\13-03\PrjCalculadora\PrjCalculadora\bin\Debug\PrjCalculadora.exe
+C:\Users\ertus\Desktop\C# - Estudos\Projetos em aula\13-03\PrjCalculadora\PrjCalculadora\bin\Debug\PrjCalculadora.pdb
+C:\Users\ertus\Desktop\C# - Estudos\Projetos em aula\13-03\PrjCalculadora\PrjCalculadora\obj\Debug\PrjCalculadora.csproj.AssemblyReference.cache
+C:\Users\ertus\Desktop\C# - Estudos\Projetos em aula\13-03\PrjCalculadora\PrjCalculadora\obj\Debug\PrjCalculadora.Form1.resources
+C:\Users\ertus\Desktop\C# - Estudos\Projetos em aula\13-03\PrjCalculadora\PrjCalculadora\obj\Debug\PrjCalculadora.Properties.Resources.resources
+C:\Users\ertus\Desktop\C# - Estudos\Projetos em aula\13-03\PrjCalculadora\PrjCalculadora\obj\Debug\PrjCalculadora.csproj.GenerateResource.cache
+C:\Users\ertus\Desktop\C# - Estudos\Projetos em aula\13-03\PrjCalculadora\PrjCalculadora\obj\Debug\PrjCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\ertus\Desktop\C# - Estudos\Projetos em aula\13-03\PrjCalculadora\PrjCalculadora\obj\Debug\PrjCalculadora.exe
+C:\Users\ertus\Desktop\C# - Estudos\Projetos em aula\13-03\PrjCalculadora\PrjCalculadora\obj\Debug\PrjCalculadora.pdb
